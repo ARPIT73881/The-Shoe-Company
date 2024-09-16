@@ -18,7 +18,9 @@
 ## <a name="introduction">🤖 Introduction</a>
 
 Discover the perfect pair of shoes at The Shoe Company, where style meets comfort. Our website, crafted with Tailwind CSS, offers a sleek and modern design that adapts seamlessly to any device.
+
 Explore our wide range of footwear with ease, thanks to our responsive layout that ensures an optimal browsing experience whether you're on a desktop, tablet, or mobile device.
+
 Find your nearest store effortlessly with our integrated map feature, guiding you to locations where you can experience our shoes in person. Enjoy a visually appealing and user-friendly experience designed to make your shopping journey as smooth as possible.
 
 ## <a name="techstack">⚙️ Tech Stack</a>
@@ -33,9 +35,13 @@ This website is built using the following technologies:
 ## <a name="features">🔋 Features</a>
 
 - **Modern Design with Tailwind CSS**: Sleek and contemporary styling that enhances the visual appeal and user experience.
+
 - **Responsive Layout**: Adapts seamlessly to various devices, ensuring an optimal browsing experience on desktops, tablets, and mobile devices.
+
 - **Integrated Map**: Easily locate your nearest store with our embedded map feature, providing convenient access to physical locations.
+
 - **User-Friendly Experience**: Designed to be intuitive and accessible, making your shopping journey smooth and enjoyable.
+
 - and many more, including code architecture and reusability
 
 ## <a name="contribute"> 🚀 Contributing</a>
