@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://arpit73881.github.io/The-Shoe-Company/" target="_blank"><img src="https://i.ibb.co/j6sfQ1R/brave-yjie-Ssje-Iw.png" alt="Main-Cover" border="0"></a>
+   <a href="https://arpit73881.github.io/The-Shoe-Company/" target="_blank"><img src="https://github.com/user-attachments/assets/0abaa203-a578-4684-b41d-59c5844edeb4" alt="Main-Cover" border="0"></a>
   <br />
 
 # [The Shoe Company](https://arpit73881.github.io/The-Shoe-Company/)
